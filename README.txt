@@ -1,0 +1,1 @@
+Glengowrie U15 PWA Version 4. Upload all files together to the root of an HTTPS static host. Replace all older files, then hard refresh the site.
